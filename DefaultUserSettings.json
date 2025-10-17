@@ -28,6 +28,20 @@
         "SetProperty": "True"
     },
 	{
+        "HivePath": "HKLM:\\VDOT_TEMP\\Control Panel\\International",
+        "KeyName": "sTimeFormat",
+        "PropertyType": "String",
+        "PropertyValue": "HH:mm:ss",
+        "SetProperty": "True"
+    },
+	{
+        "HivePath": "HKLM:\\VDOT_TEMP\\Control Panel\\International",
+        "KeyName": "sShortTime",
+        "PropertyType": "String",
+        "PropertyValue": "HH:mm",
+        "SetProperty": "True"
+    },
+	{
         "HivePath": "HKLM:\\VDOT_TEMP\\Control Panel\\International\\Geo",
         "KeyName": "Name",
         "PropertyType": "String",
