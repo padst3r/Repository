@@ -3,7 +3,7 @@
         "HivePath": "HKLM:\\VDOT_TEMP\\Control Panel\\International",
         "KeyName": "Locale",
         "PropertyType": "String",
-        "PropertyValue": 00000809,
+        "PropertyValue": "00000809",
         "SetProperty": "True"
     },
 	{
