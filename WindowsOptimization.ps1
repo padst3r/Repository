@@ -11,10 +11,7 @@
 $Optimizations = "DefaultUserSettings"
 $WorkingLocation = (Join-Path $PSScriptRoot $WindowsVersion)
 
-
-
      #region Customize Default User Profile
-
     # Apply appearance customizations to default user registry hive, then close hive file
 
         $DefaultUserSettingsFilePath = Join-Path -Path $WorkingLocation -ChildPath 'DefaultUserSettings.json'
