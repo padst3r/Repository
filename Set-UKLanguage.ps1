@@ -5,7 +5,7 @@
 ######################################33
 
 #variables
-$regionalsettingsURL = "https://raw.githubusercontent.com/averkinderen/Azure/master/101-ServerBuild/AURegion.xml"
+$regionalsettingsURL = "https://raw.githubusercontent.com/padst3r/Repository/refs/heads/master/GBLanguage.xml"
 $RegionalSettings = "D:\GBLanguage.xml"
 
 
